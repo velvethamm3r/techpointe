@@ -30,7 +30,7 @@ repository, separate from `machine-speed`.
 
 ## Before you launch
 
-- **Email.** The page links to `dbahrami@techpointe.ai` in three places. Set that
+- **Email.** The page links to `daria@techpointe.ai` in three places. Set that
   mailbox up first, or search `index.html` for `techpointe.ai?subject` and
   `mailto:` and change them back to the `.org` address.
 - **Machine Speed and newsletter links** point to
